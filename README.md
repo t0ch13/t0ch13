@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @t0ch13! You're here because you found me on Twitter.
 
-- 👀 I will be posting OSINT and InfoSec related resources as well as OSINT related project if any.
+- 👀 I will be posting OSINT and InfoSec related resources, as well as OSINT related project, if any.
 
 - 📫 How to reach me? go back where you found me HAHA. 
 
